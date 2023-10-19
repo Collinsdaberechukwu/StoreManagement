@@ -16,7 +16,6 @@ public class ReaderFile {
             String value[]  = Line.split(",");
             System.out.println(Arrays.toString(value));
         }
-
     }
 
     public static void main(String[] args) throws IOException{
